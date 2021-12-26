@@ -39,3 +39,6 @@ nosetests.xml
 
 *.prefs
 media/*
+
+# databases
+*.sqlite3
